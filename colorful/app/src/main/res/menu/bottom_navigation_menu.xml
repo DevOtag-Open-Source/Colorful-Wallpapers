@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_colors"
+        android:title="Colors"
+        android:icon="@drawable/ic_invert_colors_black_24dp"/>
+    <item android:id="@+id/action_favorite"
+        android:title="Favorite"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item android:id="@+id/action_about"
+        android:title="About"
+        android:icon="@drawable/ic_help_black_24dp"/>
+
+</menu>
